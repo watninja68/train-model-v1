@@ -455,12 +455,3 @@ if False:
 if False:
     model.push_to_hub_gguf("hf/model", tokenizer,
                            quantization_method="q4_k_m", token="")
-
-# Save to multiple GGUF options - much faster if you want multiple!
-if False:
-    model.push_to_hub_gguf(
-        "PoppingFace468/test_llama1",  # Change hf to your username!
-        tokenizer,
-        quantization_method=["q4_k_m", "q8_0", "q5_k_m",],
-        token="",
-    )
