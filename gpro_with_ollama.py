@@ -462,5 +462,5 @@ if False:
         "PoppingFace468/test_llama1",  # Change hf to your username!
         tokenizer,
         quantization_method=["q4_k_m", "q8_0", "q5_k_m",],
-        token="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",
+        token="",
     )
