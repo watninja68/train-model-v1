@@ -29,20 +29,9 @@ The primary goal of this repository is to enable experimentation with LLM fine-t
 ├── ollama_setup.sh               # Script to install Ollama and start its server
 ├── per.sh                        # Initial permission setup and Python environment trigger
 ├── requirement.txt               # Python dependencies
-├── run.sh                        # Master script to execute scripts in ./runs directory
 ├── temp_setup.sh                 # Comprehensive setup script for environment and initial model run
 ├── test.py                       # Standalone LLM evaluation using local Ollama instance
-├── runs/                           # Directory for modular setup scripts
-│   ├── cli.sh                    # (Placeholder)
-│   ├── docker.sh                 # (Placeholder)
-│   ├── first.sh                  # System update and upgrade
-│   ├── go.sh                     # (Placeholder)
-│   ├── node.sh                   # (Placeholder)
-│   ├── nvcc.sh                   # CUDA toolkit installation
-│   ├── python.sh                 # Python 3.10 and 'uv' installer
-│   ├── rust.sh                   # (Placeholder)
-│   └── sudo                      # tmux configuration file (misnamed, should be e.g., tmux.conf)
-└── README.md                     # This README file
+── README.md                     # This README file
 
 
 ## Setup Instructions
