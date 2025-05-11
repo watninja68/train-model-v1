@@ -22,7 +22,7 @@ The primary goal of this repository is to enable experimentation with LLM fine-t
 
 ## Project Structure
 
-Directory structure:
+Directory structure:<br>
 └── watninja68-train-model-v1/ <br>
     ├── README.md  <br>
     ├── 1test.py <br>
