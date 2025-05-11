@@ -27,12 +27,12 @@ Directory structure:
     ├── README.md  <br>
     ├── 1test.py <br>
     ├── gpro1_test_withopenRoutere.py <br>
-    ├── gpro_with_ollama.py
-    ├── ollama_setup.sh
-    ├── per.sh
-    ├── requirement.txt
-    ├── temp_setup.sh
-    └── test.py
+    ├── gpro_with_ollama.py<br>
+    ├── ollama_setup.sh<br>
+    ├── per.sh<br>
+    ├── requirement.txt<br>
+    ├── temp_setup.sh<br>
+    └── test.py<br>
 ## Setup Instructions
 
 **Prerequisites:**
