@@ -23,10 +23,10 @@ The primary goal of this repository is to enable experimentation with LLM fine-t
 ## Project Structure
 
 Directory structure:
-└── watninja68-train-model-v1/
-    ├── README.md
-    ├── 1test.py
-    ├── gpro1_test_withopenRoutere.py
+└── watninja68-train-model-v1/ <br>
+    ├── README.md  <br>
+    ├── 1test.py <br>
+    ├── gpro1_test_withopenRoutere.py <br>
     ├── gpro_with_ollama.py
     ├── ollama_setup.sh
     ├── per.sh
