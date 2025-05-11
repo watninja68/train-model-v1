@@ -22,18 +22,17 @@ The primary goal of this repository is to enable experimentation with LLM fine-t
 
 ## Project Structure
 
-.
-├── 1test.py                      # Standalone LLM evaluation using OpenRouter API
-├── gpro1_test_withopenRoutere.py # GRPO fine-tuning (Unsloth) with OpenRouter evaluation (derived from Colab)
-├── gpro_with_ollama.py           # GRPO fine-tuning (Unsloth) with local Ollama evaluation
-├── ollama_setup.sh               # Script to install Ollama and start its server
-├── per.sh                        # Initial permission setup and Python environment trigger
-├── requirement.txt               # Python dependencies
-├── temp_setup.sh                 # Comprehensive setup script for environment and initial model run
-├── test.py                       # Standalone LLM evaluation using local Ollama instance
-── README.md                     # This README file
-
-
+Directory structure:
+└── watninja68-train-model-v1/
+    ├── README.md
+    ├── 1test.py
+    ├── gpro1_test_withopenRoutere.py
+    ├── gpro_with_ollama.py
+    ├── ollama_setup.sh
+    ├── per.sh
+    ├── requirement.txt
+    ├── temp_setup.sh
+    └── test.py
 ## Setup Instructions
 
 **Prerequisites:**
